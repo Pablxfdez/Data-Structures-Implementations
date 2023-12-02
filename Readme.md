@@ -1,6 +1,6 @@
 # Data Structures Implementation Repository
 
-This repository contains a collection of C++ scripts, each implementing different data structures and related concepts. The scripts are designed to provide clear examples of how various data structures can be implemented and used in C++ programming. This repository is ideal for students, educators, or anyone interested in learning more about data structures in C++.
+This repository contains a collection of C++ scripts, each implementing different data structures and related concepts. The scripts are designed to provide clear examples of how various data structures can be implemented and used in C++ programming.
 
 ## Files and Descriptions:
 
